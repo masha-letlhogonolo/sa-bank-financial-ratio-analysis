@@ -15,4 +15,7 @@ To compare profitability and financial performance across banks using Python.
 -Pandas
 -Matplotlib 
 ## Key insights:
--
+-Firstrand (FSR) demonstrates the strongest overall financial performance, with the highest profitability (profit margin and ROA) and the lowest reliance on debt.
+-Standard Bank (SBK) shows solid performance, ranking second in profitability while achieving the highest revenue growth among the three banks.
+-Nedbank (NED) lags behind in profitability and efficiency, with the lowest profit margins and returns, and relatively higher leverage.
+-The results highlight a trade-off between profitability, growth, and financial risk across the banks.
